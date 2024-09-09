@@ -1,0 +1,29 @@
+body{
+background-color: rgb(154, 154, 241);
+
+}
+
+#lion{
+    width: 180px;
+    border: solid rgb(176, 11, 11);
+    padding: 1%;
+    display: block;
+    margin: 0 auto;
+    
+    
+}
+#letter{
+    font-family: Tahoma;
+    text-align: center;
+    margin: 1cm;
+    padding: 1px;
+    border: 1cm solid;
+}
+
+#tete{
+    font-family: Times New Roman;
+    text-align: center;
+    border:solid;
+    padding: 1px;
+    margin: 1cm;
+}
